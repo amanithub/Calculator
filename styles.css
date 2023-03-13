@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.button {
+    color: white;
+    background-color: black;
+    padding: 25px;
+    margin: 0 3px;
+    border: 2px solid white;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: large;
+    font-weight: 800;
+}
+.buttonper {
+    color: white;
+    background-color: black;
+    padding: 25px;
+    margin: 0 3px;
+    border: 2px solid white;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: large;
+    font-weight: 800;
+}
+.buttonC {
+    text-size-adjust:auto;
+    background-color: rgb(252, 122, 46);
+    padding:20px 48px;
+    margin: 4px 8px;
+    border: 2px solid white;
+    display: inline-block;
+    border-radius: 16px;
+    cursor: pointer;
+    font-size: large;
+    font-weight: 800;
+}
+
+.row {
+    margin: 8px 0px;
+}
+
+.row input {
+    font-size: 20px;
+    margin: 10px;
+    padding: 16px 16px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.equalsign {
+    font-size: large;
+    font-weight: 800;
+    background-color: green;
+    padding: 25px;
+    margin: 0 2px;
+    color: white;
+    border: 3px solid white;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.sign{
+    text-size-adjust:auto;
+    color: black;
+    background-color: rgb(252, 122, 46);
+    padding: 25px;
+    margin: 0 3px;
+    border: 2px solid white;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: large;
+    font-weight: 800;
+}

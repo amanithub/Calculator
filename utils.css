@@ -1,0 +1,28 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-black{
+    background-color: #131618;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+/* .m-w-30{
+    max-width: 30vw;
+} */
+
+.flex{
+    display: flex;
+
+} 
+.flex-col{
+ flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+
